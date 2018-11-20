@@ -26,7 +26,7 @@ You can make word books, quizzes and exams by using this plugin.
 
 
 # Changelog
-= 1.0.1 =
+## 1.0.1
 - Refactoring
-= 1.0.0 =
+## 1.0.0
 - First commit.
