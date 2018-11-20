@@ -1,0 +1,2 @@
+# memorizer
+WordPressのプラグインです。
