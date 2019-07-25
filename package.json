@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "jquery": "1.12.4",
+    "tinymce": "4.9.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "setupFiles": [
+      "<rootDir>/tests/js/test-env.js"
+    ]
+  }
+}
