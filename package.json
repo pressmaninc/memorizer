@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "jest": "^24.8.0",
-    "jquery": "1.12.4",
+    "jquery": "3.5.0",
     "tinymce": "4.9.5"
   },
   "scripts": {
