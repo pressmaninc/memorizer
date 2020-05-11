@@ -3244,10 +3244,10 @@ throat@^4.0.0:
   resolved "https://registry.yarnpkg.com/throat/-/throat-4.1.0.tgz#89037cbc92c56ab18926e6ba4cbb200e15672a6a"
   integrity sha1-iQN8vJLFarGJJua6TLsgDhVnKmo=
 
-tinymce@4.9.5:
-  version "4.9.5"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.9.5.tgz#ada57b1d8aab7f280d4df94b25b8147c1074b354"
-  integrity sha512-ID7oGvk7qYjx3rYck4vRkQLEM5jYKIik2JlNwKrUogZ/1c2tXHJ5Y8/Y74/IULyqlxClNdlE4d+YXzUTPvP1og==
+tinymce@4.9.10:
+  version "4.9.10"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.9.10.tgz#47bd7b4d27d80d53a464356eb7c72b97e5c3aadd"
+  integrity sha512-vyzGG04Q44Y7zWIKA4c+G7MxMCsed6JkrhU+k0TaDs9XKAiS+e+D3Fzz5OIJ7p5keF7lbRK5czgI8T1JtouZqw==
 
 tmpl@1.0.x:
   version "1.0.4"
