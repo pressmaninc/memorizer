@@ -2,7 +2,7 @@
   "devDependencies": {
     "jest": "^24.8.0",
     "jquery": "1.12.4",
-    "tinymce": "4.9.5"
+    "tinymce": "4.9.11"
   },
   "scripts": {
     "test": "jest"
